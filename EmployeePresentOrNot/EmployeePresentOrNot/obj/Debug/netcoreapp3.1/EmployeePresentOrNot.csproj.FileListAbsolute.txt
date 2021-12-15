@@ -1,0 +1,14 @@
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\bin\Debug\netcoreapp3.1\EmployeePresentOrNot.exe
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\bin\Debug\netcoreapp3.1\EmployeePresentOrNot.deps.json
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\bin\Debug\netcoreapp3.1\EmployeePresentOrNot.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\bin\Debug\netcoreapp3.1\EmployeePresentOrNot.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\bin\Debug\netcoreapp3.1\EmployeePresentOrNot.dll
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\bin\Debug\netcoreapp3.1\EmployeePresentOrNot.pdb
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\obj\Debug\netcoreapp3.1\EmployeePresentOrNot.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\obj\Debug\netcoreapp3.1\EmployeePresentOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\obj\Debug\netcoreapp3.1\EmployeePresentOrNot.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\obj\Debug\netcoreapp3.1\EmployeePresentOrNot.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\obj\Debug\netcoreapp3.1\EmployeePresentOrNot.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\obj\Debug\netcoreapp3.1\EmployeePresentOrNot.dll
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\obj\Debug\netcoreapp3.1\EmployeePresentOrNot.pdb
+C:\Users\anand\Desktop\Bridgelabz\EmplyeeWageProblem\EmployeePresentOrNot\EmployeePresentOrNot\obj\Debug\netcoreapp3.1\EmployeePresentOrNot.genruntimeconfig.cache
