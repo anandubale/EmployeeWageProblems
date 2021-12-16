@@ -1,0 +1,13 @@
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\bin\Debug\netcoreapp3.1\EmployeeWageForMonth.exe
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\bin\Debug\netcoreapp3.1\EmployeeWageForMonth.deps.json
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\bin\Debug\netcoreapp3.1\EmployeeWageForMonth.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\bin\Debug\netcoreapp3.1\EmployeeWageForMonth.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\bin\Debug\netcoreapp3.1\EmployeeWageForMonth.dll
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\bin\Debug\netcoreapp3.1\EmployeeWageForMonth.pdb
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.dll
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.pdb
+C:\Users\anand\Desktop\Bridgelabz\New folder\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.genruntimeconfig.cache
