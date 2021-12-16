@@ -1,0 +1,13 @@
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\bin\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.exe
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\bin\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.deps.json
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\bin\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\bin\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\bin\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.dll
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\bin\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.pdb
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\obj\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\obj\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\obj\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\obj\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\obj\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.dll
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\obj\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.pdb
+C:\Users\anand\Desktop\Bridgelabz\New folder\WageTillNoOfWorkingDays\WageTillNoOfWorkingDays\obj\Debug\netcoreapp3.1\WageTillNoOfWorkingDays.genruntimeconfig.cache
